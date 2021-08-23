@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Built-By: Generated-by-ADT
+Created-By: Android Gradle 3.5.0
+
+Name: AndroidManifest.xml
+SHA1-Digest: scCkAGoFLS5Hsb591hXxOjt5X1I=
+
+Name: META-INF/com/android/otacert
+SHA1-Digest: 71Q6Rn2DDZl1zPDVaaeEHItd+Yg=
+
+Name: resources.arsc
+SHA1-Digest: YIQ1z5dQ8xl3hSZscpiFJo3ZBRg=
+

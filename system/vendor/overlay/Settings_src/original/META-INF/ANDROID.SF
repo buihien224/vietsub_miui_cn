@@ -1,0 +1,187 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android)
+SHA1-Digest-Manifest: RPaZWZw3tfJjgHTVi5fKe2lBJQE=
+X-Android-APK-Signed: 2
+
+Name: AndroidManifest.xml
+SHA1-Digest: KlLCB8BYZOK3ZQfkLSN7p47Jgao=
+
+Name: META-INF/androidx.activity_activity.version
+SHA1-Digest: JrwgEfLJOCyFEH0BnD4JzaEYUk0=
+
+Name: META-INF/androidx.appcompat_appcompat-resources.version
+SHA1-Digest: 2dN7G2/1tI6YWFSLpxE8dSZI6bA=
+
+Name: META-INF/androidx.appcompat_appcompat.version
+SHA1-Digest: OUBmwCyQzWOeQUCgjU7B8mbIPEM=
+
+Name: META-INF/androidx.arch.core_core-runtime.version
+SHA1-Digest: fIsef72GRaSJh+O/2zIs/2Hk3yA=
+
+Name: META-INF/androidx.asynclayoutinflater_asynclayoutinflater.versio
+ n
+SHA1-Digest: EmVbv/Eu0ByzpENQ0oh9V9xODA4=
+
+Name: META-INF/androidx.cardview_cardview.version
+SHA1-Digest: Eutn/bvBHVQhi8xVihnE/OMfTHs=
+
+Name: META-INF/androidx.coordinatorlayout_coordinatorlayout.version
+SHA1-Digest: wJ5y9cu+B5JP39uHpq6NLBFhNMM=
+
+Name: META-INF/androidx.core_core.version
+SHA1-Digest: s1F2/8scwTeHccJTTUEK2WMx0Fg=
+
+Name: META-INF/androidx.cursoradapter_cursoradapter.version
+SHA1-Digest: k/k9vQVWeIG99vnUEjLRfLQaThw=
+
+Name: META-INF/androidx.customview_customview.version
+SHA1-Digest: X60xsisbXs5UrLyJ5yccgnVeU0A=
+
+Name: META-INF/androidx.documentfile_documentfile.version
+SHA1-Digest: prgOevFRGat/6ddlKVFFSQbJO3Y=
+
+Name: META-INF/androidx.drawerlayout_drawerlayout.version
+SHA1-Digest: wrFxITINpcUk6hnCCE3/nsAsdzs=
+
+Name: META-INF/androidx.fragment_fragment.version
+SHA1-Digest: OwjuSUGizb/u7O34JhmOsL80F4M=
+
+Name: META-INF/androidx.interpolator_interpolator.version
+SHA1-Digest: vKge0aitHaFi2AJaQbogcMGrPFA=
+
+Name: META-INF/androidx.legacy_legacy-support-core-ui.version
+SHA1-Digest: +dx3QuT4xIUsTNyhLdW1spLvkRs=
+
+Name: META-INF/androidx.legacy_legacy-support-core-utils.version
+SHA1-Digest: YPidk4Ks9JXtIT4ANaV5jeityNQ=
+
+Name: META-INF/androidx.lifecycle_lifecycle-extensions.version
+SHA1-Digest: Ov/eF+/VqmeHu8Fbr8jSiUw7S+g=
+
+Name: META-INF/androidx.lifecycle_lifecycle-livedata-core.version
+SHA1-Digest: /sLQH+MOv8uDdthb9KJBxWvyaf0=
+
+Name: META-INF/androidx.lifecycle_lifecycle-livedata.version
+SHA1-Digest: sdO0KklgQkGOPh9nKKL6l3hpVAQ=
+
+Name: META-INF/androidx.lifecycle_lifecycle-process.version
+SHA1-Digest: 2fu3z9CAGEeRpR0ZTmUYLePSo9Q=
+
+Name: META-INF/androidx.lifecycle_lifecycle-runtime.version
+SHA1-Digest: NePTQebY06sd4Jn5fo6DuQj6LaE=
+
+Name: META-INF/androidx.lifecycle_lifecycle-service.version
+SHA1-Digest: H2GotbdUpkNfOMmqpVwuM5QOofM=
+
+Name: META-INF/androidx.lifecycle_lifecycle-viewmodel-savedstate.versi
+ on
+SHA1-Digest: 5z+R9A+wKsW3Ri25UE3bM2mWwUY=
+
+Name: META-INF/androidx.lifecycle_lifecycle-viewmodel.version
+SHA1-Digest: 8uNFrzziJVmvQZ8B7i+BDaKfX1A=
+
+Name: META-INF/androidx.loader_loader.version
+SHA1-Digest: 3HjXI7c29c4hbV/m1M6NeNnyEKk=
+
+Name: META-INF/androidx.localbroadcastmanager_localbroadcastmanager.ve
+ rsion
+SHA1-Digest: XjC8bpDONorQToCZ92TsfKuKlQ8=
+
+Name: META-INF/androidx.media_media.version
+SHA1-Digest: zI841HCzNA2OEot+ZudM6Y1/+X8=
+
+Name: META-INF/androidx.mediarouter_mediarouter.version
+SHA1-Digest: riMUh0hhkVczhe1BKPbWOQOZokQ=
+
+Name: META-INF/androidx.preference_preference.version
+SHA1-Digest: gA+7Hk55n6Zajx9dnL+eT4msZag=
+
+Name: META-INF/androidx.print_print.version
+SHA1-Digest: zZBZ2iWbY+5SaGIo472BSdizYYw=
+
+Name: META-INF/androidx.recyclerview_recyclerview.version
+SHA1-Digest: TJwRIYiuiWn2hfhTg6qex1/YK/w=
+
+Name: META-INF/androidx.remotecallback_remotecallback.version
+SHA1-Digest: MIL+HmohDNTp8RTNnTAaHu/hX/o=
+
+Name: META-INF/androidx.savedstate_savedstate.version
+SHA1-Digest: Tl8Fm7MnBPmWHPlnXqcUYkvLCgQ=
+
+Name: META-INF/androidx.slice_slice-builders.version
+SHA1-Digest: 6k1t9pBwXD3DN77gEwwd7yrxymE=
+
+Name: META-INF/androidx.slice_slice-core.version
+SHA1-Digest: JjKW9Qhy1T/v9b3CYpyfeQleJp0=
+
+Name: META-INF/androidx.slice_slice-view.version
+SHA1-Digest: xTkObaLmLSF6rkILx8agYuVCTFI=
+
+Name: META-INF/androidx.slidingpanelayout_slidingpanelayout.version
+SHA1-Digest: wndKe0xKGbgzuBHScK94YVFVpOM=
+
+Name: META-INF/androidx.swiperefreshlayout_swiperefreshlayout.version
+SHA1-Digest: +o3V0vRaYPhPl/fQHrmaB3JLrUM=
+
+Name: META-INF/androidx.transition_transition.version
+SHA1-Digest: dzGT/gvpQQ6FoO7RmwQvxr/Sq/k=
+
+Name: META-INF/androidx.vectordrawable_vectordrawable-animated.version
+SHA1-Digest: M61j2InQ5aB6eXXY9fsC+19zmQ0=
+
+Name: META-INF/androidx.vectordrawable_vectordrawable.version
+SHA1-Digest: y3unjhM46jDQG2rUcEo7XdpyP4A=
+
+Name: META-INF/androidx.versionedparcelable_versionedparcelable.versio
+ n
+SHA1-Digest: H8xKD/43PEyXWS1plJyyzC5ZEDo=
+
+Name: META-INF/androidx.viewpager_viewpager.version
+SHA1-Digest: YlBJQjfOEagICBzFUiTWpP4FM6g=
+
+Name: META-INF/com.google.android.material_material.version
+SHA1-Digest: GEqQ/KhLwp6uX4iuSM0XIzcXRzk=
+
+Name: META-INF/com/android/otacert
+SHA1-Digest: QW7yPFUPbhU0tUYKW4i2EdneCnw=
+
+Name: META-INF/kotlin-stdlib-coroutines.kotlin_module
+SHA1-Digest: NOmBfjF55jE13Y79E8SqkDgHW8w=
+
+Name: META-INF/kotlin-stdlib-jdk7.kotlin_module
+SHA1-Digest: hMafOf4WRV4wpo1Q8Rzhv6qNvjE=
+
+Name: META-INF/kotlin-stdlib-jdk8.kotlin_module
+SHA1-Digest: OO2MHLoVcV1MFapJaRI6qkJk4/o=
+
+Name: META-INF/kotlin-stdlib.kotlin_module
+SHA1-Digest: ORFIBQcdrx/61QEDs3Jq0rc6WWQ=
+
+Name: META-INF/maven/com.google.guava/listenablefuture/pom.properties
+SHA1-Digest: I7cGgrqyGWkK9TE3NkT2HVixXug=
+
+Name: META-INF/maven/com.google.guava/listenablefuture/pom.xml
+SHA1-Digest: AyxNBjT6fp2wrfCBDAFBlGBPjiQ=
+
+Name: META-INF/maven/com.google.zxing/core/pom.properties
+SHA1-Digest: TAKs7BGNk6RI/HkxDUx2f2OCfs8=
+
+Name: META-INF/maven/com.google.zxing/core/pom.xml
+SHA1-Digest: fHVV4g7loYRaPHDSty6dSQKMvvw=
+
+Name: META-INF/maven/com.squareup.okio/okio/pom.properties
+SHA1-Digest: Y0dnmW99Hvz2bxcwj9nbfZWPgLo=
+
+Name: META-INF/maven/com.squareup.okio/okio/pom.xml
+SHA1-Digest: EUoszgI04an/eJZW4cHJNCk8jnM=
+
+Name: META-INF/packages__apps__MiuiSettingsLib__android_common__MiuiSe
+ ttingsLib.kotlin_module
+SHA1-Digest: Vq4EBKG7L/BrH0rzXnuEPUl8NFs=
+
+Name: META-INF/proguard/androidx-annotations.pro
+SHA1-Digest: ehxvkp8tz8a8rS54KDyfeutX1KY=
+
+Name: resources.arsc
+SHA1-Digest: jMIatvNVisXqyYhG+LfG9Rux8KQ=
+

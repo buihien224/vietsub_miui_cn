@@ -1,0 +1,10 @@
+{
+    data: [
+        {
+            title: "menu_add_city",
+            type: "activity",
+            image: "force_touch_add",
+            intent: "#Intent;component=com.miui.weather2/.ActivitySetCity;end"
+        }
+    ]
+}

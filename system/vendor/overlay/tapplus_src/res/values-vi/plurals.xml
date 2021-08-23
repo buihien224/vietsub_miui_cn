@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="settings_added_blacklist_title">
+        <item quantity="other">%d ứng dụng được thêm vào ngoại lệ</item>
+        <item quantity="one">%d ứng dụng được thêm vào ngoại lệ</item>
+    </plurals>
+    <plurals name="settings_no_added_blacklist_title">
+        <item quantity="other">%d ứng dụng có sẵn</item>
+        <item quantity="one">%d ứng dụng có sẵn</item>
+    </plurals>
+</resources>

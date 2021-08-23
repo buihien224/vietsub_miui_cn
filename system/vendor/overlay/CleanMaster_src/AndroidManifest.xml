@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest
+    android:compileSdkVersion="29"
+    android:compileSdkVersionCodename="10"
+    package="com.miui.cleanmaster.overlay"
+    platformBuildVersionCode="29"
+    platformBuildVersionName="10"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <overlay
+        android:priority="1"
+        android:targetPackage="com.miui.cleanmaster"
+        android:isStatic="true" />
+</manifest>

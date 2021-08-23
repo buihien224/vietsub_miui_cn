@@ -1,0 +1,254 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android)
+SHA1-Digest-Manifest: EFekNL61GivT585zo4dVzGhUB70=
+X-Android-APK-Signed: 2
+
+Name: AndroidManifest.xml
+SHA1-Digest: U1ph2SoMqo3JQb6IcXehDNN/BYY=
+
+Name: META-INF/activity-ktx_release.kotlin_module
+SHA1-Digest: ydw4UeHSRd996DS1lBkqDEeG85s=
+
+Name: META-INF/androidx.activity_activity-ktx.version
+SHA1-Digest: +kzB/miaF7eTGmVufKDy46tvpUE=
+
+Name: META-INF/androidx.activity_activity.version
+SHA1-Digest: JrwgEfLJOCyFEH0BnD4JzaEYUk0=
+
+Name: META-INF/androidx.appcompat_appcompat-resources.version
+SHA1-Digest: 2dN7G2/1tI6YWFSLpxE8dSZI6bA=
+
+Name: META-INF/androidx.appcompat_appcompat.version
+SHA1-Digest: OUBmwCyQzWOeQUCgjU7B8mbIPEM=
+
+Name: META-INF/androidx.arch.core_core-runtime.version
+SHA1-Digest: fIsef72GRaSJh+O/2zIs/2Hk3yA=
+
+Name: META-INF/androidx.asynclayoutinflater_asynclayoutinflater.versio
+ n
+SHA1-Digest: EmVbv/Eu0ByzpENQ0oh9V9xODA4=
+
+Name: META-INF/androidx.cardview_cardview.version
+SHA1-Digest: Eutn/bvBHVQhi8xVihnE/OMfTHs=
+
+Name: META-INF/androidx.coordinatorlayout_coordinatorlayout.version
+SHA1-Digest: wJ5y9cu+B5JP39uHpq6NLBFhNMM=
+
+Name: META-INF/androidx.core_core-ktx.version
+SHA1-Digest: WbH7Pjn1IT4O1KN6UpTcD2pSzUo=
+
+Name: META-INF/androidx.core_core.version
+SHA1-Digest: s1F2/8scwTeHccJTTUEK2WMx0Fg=
+
+Name: META-INF/androidx.cursoradapter_cursoradapter.version
+SHA1-Digest: k/k9vQVWeIG99vnUEjLRfLQaThw=
+
+Name: META-INF/androidx.customview_customview.version
+SHA1-Digest: X60xsisbXs5UrLyJ5yccgnVeU0A=
+
+Name: META-INF/androidx.documentfile_documentfile.version
+SHA1-Digest: prgOevFRGat/6ddlKVFFSQbJO3Y=
+
+Name: META-INF/androidx.drawerlayout_drawerlayout.version
+SHA1-Digest: wrFxITINpcUk6hnCCE3/nsAsdzs=
+
+Name: META-INF/androidx.fragment_fragment-ktx.version
+SHA1-Digest: 5vNiE9YSExLQ0OCGT0IG3gnm0SI=
+
+Name: META-INF/androidx.fragment_fragment.version
+SHA1-Digest: OwjuSUGizb/u7O34JhmOsL80F4M=
+
+Name: META-INF/androidx.interpolator_interpolator.version
+SHA1-Digest: vKge0aitHaFi2AJaQbogcMGrPFA=
+
+Name: META-INF/androidx.leanback_leanback-preference.version
+SHA1-Digest: 4S5n3mfcDunftHgSPntWBFwFl3s=
+
+Name: META-INF/androidx.leanback_leanback.version
+SHA1-Digest: 8lAH8L1W4VAaOyj/Sy715Z/Emx0=
+
+Name: META-INF/androidx.legacy_legacy-support-core-ui.version
+SHA1-Digest: +dx3QuT4xIUsTNyhLdW1spLvkRs=
+
+Name: META-INF/androidx.legacy_legacy-support-core-utils.version
+SHA1-Digest: YPidk4Ks9JXtIT4ANaV5jeityNQ=
+
+Name: META-INF/androidx.lifecycle_lifecycle-extensions.version
+SHA1-Digest: Ov/eF+/VqmeHu8Fbr8jSiUw7S+g=
+
+Name: META-INF/androidx.lifecycle_lifecycle-livedata-core-ktx.version
+SHA1-Digest: JGjn06Gy4tvOvjo0iJxWRMIqq84=
+
+Name: META-INF/androidx.lifecycle_lifecycle-livedata-core.version
+SHA1-Digest: /sLQH+MOv8uDdthb9KJBxWvyaf0=
+
+Name: META-INF/androidx.lifecycle_lifecycle-livedata.version
+SHA1-Digest: sdO0KklgQkGOPh9nKKL6l3hpVAQ=
+
+Name: META-INF/androidx.lifecycle_lifecycle-process.version
+SHA1-Digest: 2fu3z9CAGEeRpR0ZTmUYLePSo9Q=
+
+Name: META-INF/androidx.lifecycle_lifecycle-runtime-ktx.version
+SHA1-Digest: iSuDtSJ6YLZ/v7PnE1LmuJckanA=
+
+Name: META-INF/androidx.lifecycle_lifecycle-runtime.version
+SHA1-Digest: NePTQebY06sd4Jn5fo6DuQj6LaE=
+
+Name: META-INF/androidx.lifecycle_lifecycle-service.version
+SHA1-Digest: H2GotbdUpkNfOMmqpVwuM5QOofM=
+
+Name: META-INF/androidx.lifecycle_lifecycle-viewmodel-ktx.version
+SHA1-Digest: 9wjZ40Xtnc+C5a5OBHg6i/BC9ow=
+
+Name: META-INF/androidx.lifecycle_lifecycle-viewmodel-savedstate.versi
+ on
+SHA1-Digest: 5z+R9A+wKsW3Ri25UE3bM2mWwUY=
+
+Name: META-INF/androidx.lifecycle_lifecycle-viewmodel.version
+SHA1-Digest: 8uNFrzziJVmvQZ8B7i+BDaKfX1A=
+
+Name: META-INF/androidx.loader_loader.version
+SHA1-Digest: 3HjXI7c29c4hbV/m1M6NeNnyEKk=
+
+Name: META-INF/androidx.localbroadcastmanager_localbroadcastmanager.ve
+ rsion
+SHA1-Digest: XjC8bpDONorQToCZ92TsfKuKlQ8=
+
+Name: META-INF/androidx.media_media.version
+SHA1-Digest: zI841HCzNA2OEot+ZudM6Y1/+X8=
+
+Name: META-INF/androidx.navigation_navigation-common-ktx.version
+SHA1-Digest: dvtgq5HpuIDRRRtCkvRagLyDODw=
+
+Name: META-INF/androidx.navigation_navigation-common.version
+SHA1-Digest: 05+MuX4gvk0qyQdY5gp6yIOtP8Q=
+
+Name: META-INF/androidx.navigation_navigation-fragment-ktx.version
+SHA1-Digest: cQWRX0skvQC0X2xXk38PGdT3JOk=
+
+Name: META-INF/androidx.navigation_navigation-fragment.version
+SHA1-Digest: RaeD58+1OzhACuXgeiM0iIMkEUI=
+
+Name: META-INF/androidx.navigation_navigation-runtime-ktx.version
+SHA1-Digest: qCH4wSO/umhHQIHwu0R7XJM5tGg=
+
+Name: META-INF/androidx.navigation_navigation-runtime.version
+SHA1-Digest: LGe2Bu46bq6UDTXF207owOeR9A4=
+
+Name: META-INF/androidx.navigation_navigation-ui-ktx.version
+SHA1-Digest: uK7MPmcxPIbZOH06sR956ha55wk=
+
+Name: META-INF/androidx.navigation_navigation-ui.version
+SHA1-Digest: hyyG0yAiFED2ow9ykOvCJBaZclU=
+
+Name: META-INF/androidx.preference_preference.version
+SHA1-Digest: gA+7Hk55n6Zajx9dnL+eT4msZag=
+
+Name: META-INF/androidx.print_print.version
+SHA1-Digest: zZBZ2iWbY+5SaGIo472BSdizYYw=
+
+Name: META-INF/androidx.recyclerview_recyclerview.version
+SHA1-Digest: TJwRIYiuiWn2hfhTg6qex1/YK/w=
+
+Name: META-INF/androidx.savedstate_savedstate.version
+SHA1-Digest: Tl8Fm7MnBPmWHPlnXqcUYkvLCgQ=
+
+Name: META-INF/androidx.slidingpanelayout_slidingpanelayout.version
+SHA1-Digest: wndKe0xKGbgzuBHScK94YVFVpOM=
+
+Name: META-INF/androidx.swiperefreshlayout_swiperefreshlayout.version
+SHA1-Digest: +o3V0vRaYPhPl/fQHrmaB3JLrUM=
+
+Name: META-INF/androidx.transition_transition.version
+SHA1-Digest: dzGT/gvpQQ6FoO7RmwQvxr/Sq/k=
+
+Name: META-INF/androidx.vectordrawable_vectordrawable-animated.version
+SHA1-Digest: M61j2InQ5aB6eXXY9fsC+19zmQ0=
+
+Name: META-INF/androidx.vectordrawable_vectordrawable.version
+SHA1-Digest: y3unjhM46jDQG2rUcEo7XdpyP4A=
+
+Name: META-INF/androidx.versionedparcelable_versionedparcelable.versio
+ n
+SHA1-Digest: H8xKD/43PEyXWS1plJyyzC5ZEDo=
+
+Name: META-INF/androidx.viewpager_viewpager.version
+SHA1-Digest: YlBJQjfOEagICBzFUiTWpP4FM6g=
+
+Name: META-INF/collection-ktx.kotlin_module
+SHA1-Digest: 6jFyOeqB3F2g6oX92xRJuDC6Xv8=
+
+Name: META-INF/com.android.tools/proguard/coroutines.pro
+SHA1-Digest: Q7wGa/p+tk5dS4JktbxFmw+cmeU=
+
+Name: META-INF/com.android.tools/r8-from-1.6.0/coroutines.pro
+SHA1-Digest: ERhrroY7Z3Sk6wIBQj8wXLhERWo=
+
+Name: META-INF/com.android.tools/r8-upto-1.6.0/coroutines.pro
+SHA1-Digest: vjZYzG2bglVkETauThvM1nrHl58=
+
+Name: META-INF/com.google.android.material_material.version
+SHA1-Digest: GEqQ/KhLwp6uX4iuSM0XIzcXRzk=
+
+Name: META-INF/com/android/otacert
+SHA1-Digest: QW7yPFUPbhU0tUYKW4i2EdneCnw=
+
+Name: META-INF/core-ktx_release.kotlin_module
+SHA1-Digest: XEEpkA4N7ZuOEfWbLUYAeAQOHR8=
+
+Name: META-INF/fragment-ktx_release.kotlin_module
+SHA1-Digest: v8wZdXsCeQcqdFP7Ljor4ZFjvyo=
+
+Name: META-INF/kotlin-stdlib-coroutines.kotlin_module
+SHA1-Digest: NOmBfjF55jE13Y79E8SqkDgHW8w=
+
+Name: META-INF/kotlin-stdlib.kotlin_module
+SHA1-Digest: ORFIBQcdrx/61QEDs3Jq0rc6WWQ=
+
+Name: META-INF/kotlinx-coroutines-android.kotlin_module
+SHA1-Digest: ANxfYCAmdydtBuChTVp4GwSjwfc=
+
+Name: META-INF/kotlinx-coroutines-core.kotlin_module
+SHA1-Digest: 9PS5Ej6X7NhyYAPcmAVaPrRJ3vQ=
+
+Name: META-INF/lifecycle-livedata-core-ktx_release.kotlin_module
+SHA1-Digest: YVkkkGkj4gDIuU69u3qGqJN0w3M=
+
+Name: META-INF/lifecycle-runtime-ktx_release.kotlin_module
+SHA1-Digest: A2o327kmx/5hMVfKpFWfCbbaegc=
+
+Name: META-INF/lifecycle-viewmodel-ktx_release.kotlin_module
+SHA1-Digest: xKe5X5MWRbZeN80HsrCagH35i1k=
+
+Name: META-INF/navigation-common-ktx_release.kotlin_module
+SHA1-Digest: 8bgiLq/BfYIEN9rAN5bfGT6tzw8=
+
+Name: META-INF/navigation-fragment-ktx_release.kotlin_module
+SHA1-Digest: gLj8mXZTZi5ztNjubQvzEgn3Qjs=
+
+Name: META-INF/navigation-runtime-ktx_release.kotlin_module
+SHA1-Digest: 998AIZQfJ0sM7S0dVv9kZJqcYw0=
+
+Name: META-INF/navigation-ui-ktx_release.kotlin_module
+SHA1-Digest: AtGvKD5I2ob93ed2WkEfyVksbCg=
+
+Name: META-INF/packages__apps__PermissionController__android_common_co
+ m.android.permission__PermissionController.kotlin_module
+SHA1-Digest: or23Z2xoAzY9+JZuXSrWmNVbBio=
+
+Name: META-INF/proguard/androidx-annotations.pro
+SHA1-Digest: ehxvkp8tz8a8rS54KDyfeutX1KY=
+
+Name: META-INF/proguard/coroutines.pro
+SHA1-Digest: 7fpW5BvdoLMS0RRbpl2GZQCMMVA=
+
+Name: META-INF/services/kotlinx.coroutines.CoroutineExceptionHandler
+SHA1-Digest: 3VN90dv79UsWZy5D2Pz24qOUv/A=
+
+Name: META-INF/services/kotlinx.coroutines.internal.MainDispatcherFact
+ ory
+SHA1-Digest: rqggBmYX8a16Wai7VPH+J7TYe94=
+
+Name: resources.arsc
+SHA1-Digest: xyJzSscucj+X/+wrHRj7ddI2vfQ=
+

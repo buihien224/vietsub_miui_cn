@@ -1,0 +1,186 @@
+Manifest-Version: 1.0
+Built-By: Generated-by-ADT
+Created-By: Android Gradle 3.5.0
+
+Name: AndroidManifest.xml
+SHA1-Digest: xNr6iinftM0NXOooWacwZkPwOUc=
+
+Name: META-INF/androidx.activity_activity.version
+SHA1-Digest: dtIbfrJgpcXi2TF8RoMIH8NRmEo=
+
+Name: META-INF/androidx.appcompat_appcompat-resources.version
+SHA1-Digest: Y8bBndqNEVF9hKcR5K6dSeZTOKg=
+
+Name: META-INF/androidx.appcompat_appcompat.version
+SHA1-Digest: Y8bBndqNEVF9hKcR5K6dSeZTOKg=
+
+Name: META-INF/androidx.arch.core_core-runtime.version
+SHA1-Digest: kKqLlVuXiLVGkBwOavVb0mAtWog=
+
+Name: META-INF/androidx.asynclayoutinflater_asynclayoutinflater.versio
+ n
+SHA1-Digest: ixfdnISCl/wOEEbUY07g4Noh3tQ=
+
+Name: META-INF/androidx.cardview_cardview.version
+SHA1-Digest: ixfdnISCl/wOEEbUY07g4Noh3tQ=
+
+Name: META-INF/androidx.coordinatorlayout_coordinatorlayout.version
+SHA1-Digest: FJSuLdvj/mt+8YOy0s7j15or4IY=
+
+Name: META-INF/androidx.core_core.version
+SHA1-Digest: QbRBADOxoalqQtcXwew1xptwu04=
+
+Name: META-INF/androidx.cursoradapter_cursoradapter.version
+SHA1-Digest: ixfdnISCl/wOEEbUY07g4Noh3tQ=
+
+Name: META-INF/androidx.customview_customview.version
+SHA1-Digest: FJSuLdvj/mt+8YOy0s7j15or4IY=
+
+Name: META-INF/androidx.documentfile_documentfile.version
+SHA1-Digest: ixfdnISCl/wOEEbUY07g4Noh3tQ=
+
+Name: META-INF/androidx.drawerlayout_drawerlayout.version
+SHA1-Digest: FJSuLdvj/mt+8YOy0s7j15or4IY=
+
+Name: META-INF/androidx.fragment_fragment.version
+SHA1-Digest: C2w4L3e84tyfT+0bVF6njrQDdt0=
+
+Name: META-INF/androidx.interpolator_interpolator.version
+SHA1-Digest: ixfdnISCl/wOEEbUY07g4Noh3tQ=
+
+Name: META-INF/androidx.legacy_legacy-support-core-ui.version
+SHA1-Digest: ixfdnISCl/wOEEbUY07g4Noh3tQ=
+
+Name: META-INF/androidx.legacy_legacy-support-core-utils.version
+SHA1-Digest: ixfdnISCl/wOEEbUY07g4Noh3tQ=
+
+Name: META-INF/androidx.lifecycle_lifecycle-extensions.version
+SHA1-Digest: ki4gaPNnQtjUKncYI+ebS5R6j+0=
+
+Name: META-INF/androidx.lifecycle_lifecycle-livedata-core.version
+SHA1-Digest: mfv+bps+27pLF4ohhqkXU02S0SU=
+
+Name: META-INF/androidx.lifecycle_lifecycle-livedata.version
+SHA1-Digest: mfv+bps+27pLF4ohhqkXU02S0SU=
+
+Name: META-INF/androidx.lifecycle_lifecycle-process.version
+SHA1-Digest: mfv+bps+27pLF4ohhqkXU02S0SU=
+
+Name: META-INF/androidx.lifecycle_lifecycle-runtime.version
+SHA1-Digest: mfv+bps+27pLF4ohhqkXU02S0SU=
+
+Name: META-INF/androidx.lifecycle_lifecycle-service.version
+SHA1-Digest: mfv+bps+27pLF4ohhqkXU02S0SU=
+
+Name: META-INF/androidx.lifecycle_lifecycle-viewmodel-savedstate.versi
+ on
+SHA1-Digest: mfv+bps+27pLF4ohhqkXU02S0SU=
+
+Name: META-INF/androidx.lifecycle_lifecycle-viewmodel.version
+SHA1-Digest: mfv+bps+27pLF4ohhqkXU02S0SU=
+
+Name: META-INF/androidx.loader_loader.version
+SHA1-Digest: FJSuLdvj/mt+8YOy0s7j15or4IY=
+
+Name: META-INF/androidx.localbroadcastmanager_localbroadcastmanager.ve
+ rsion
+SHA1-Digest: iV9xub0oAOFr2xEaUsC47Zt8dpE=
+
+Name: META-INF/androidx.media_media.version
+SHA1-Digest: F84LKbkBr3uOVX5YGtE4CsBdHLc=
+
+Name: META-INF/androidx.mediarouter_mediarouter.version
+SHA1-Digest: FJSuLdvj/mt+8YOy0s7j15or4IY=
+
+Name: META-INF/androidx.preference_preference.version
+SHA1-Digest: FJSuLdvj/mt+8YOy0s7j15or4IY=
+
+Name: META-INF/androidx.print_print.version
+SHA1-Digest: ixfdnISCl/wOEEbUY07g4Noh3tQ=
+
+Name: META-INF/androidx.recyclerview_recyclerview.version
+SHA1-Digest: F84LKbkBr3uOVX5YGtE4CsBdHLc=
+
+Name: META-INF/androidx.remotecallback_remotecallback.version
+SHA1-Digest: Tyh4XlpWjEiBk0+Bx5SQDfKtUBg=
+
+Name: META-INF/androidx.savedstate_savedstate.version
+SHA1-Digest: ixfdnISCl/wOEEbUY07g4Noh3tQ=
+
+Name: META-INF/androidx.slice_slice-builders.version
+SHA1-Digest: iV9xub0oAOFr2xEaUsC47Zt8dpE=
+
+Name: META-INF/androidx.slice_slice-core.version
+SHA1-Digest: iV9xub0oAOFr2xEaUsC47Zt8dpE=
+
+Name: META-INF/androidx.slice_slice-view.version
+SHA1-Digest: iV9xub0oAOFr2xEaUsC47Zt8dpE=
+
+Name: META-INF/androidx.slidingpanelayout_slidingpanelayout.version
+SHA1-Digest: FJSuLdvj/mt+8YOy0s7j15or4IY=
+
+Name: META-INF/androidx.swiperefreshlayout_swiperefreshlayout.version
+SHA1-Digest: 5o7fvepQIP741jNpPe5S2IuCM2M=
+
+Name: META-INF/androidx.transition_transition.version
+SHA1-Digest: KvwhonB+V/5Pz/9/jjrIgC4mWvI=
+
+Name: META-INF/androidx.vectordrawable_vectordrawable-animated.version
+SHA1-Digest: FJSuLdvj/mt+8YOy0s7j15or4IY=
+
+Name: META-INF/androidx.vectordrawable_vectordrawable.version
+SHA1-Digest: owzfBUuNQnc2ctTVClouby5nnAc=
+
+Name: META-INF/androidx.versionedparcelable_versionedparcelable.versio
+ n
+SHA1-Digest: FJSuLdvj/mt+8YOy0s7j15or4IY=
+
+Name: META-INF/androidx.viewpager_viewpager.version
+SHA1-Digest: ixfdnISCl/wOEEbUY07g4Noh3tQ=
+
+Name: META-INF/com.google.android.material_material.version
+SHA1-Digest: TfIxc4IbxgZy8nLUMic2kOa0RFI=
+
+Name: META-INF/com/android/otacert
+SHA1-Digest: 71Q6Rn2DDZl1zPDVaaeEHItd+Yg=
+
+Name: META-INF/kotlin-stdlib-coroutines.kotlin_module
+SHA1-Digest: aqvat1CWNd7nMb43Qe60oJT6lao=
+
+Name: META-INF/kotlin-stdlib-jdk7.kotlin_module
+SHA1-Digest: mZxx29LE5KA7NQKdYrBQTgekoVQ=
+
+Name: META-INF/kotlin-stdlib-jdk8.kotlin_module
+SHA1-Digest: P8+pKZd9I5bujw0OhRmz9DSzhiY=
+
+Name: META-INF/kotlin-stdlib.kotlin_module
+SHA1-Digest: lUWnx4lKJvAq7GqSJavMHg8cjRw=
+
+Name: META-INF/maven/com.google.guava/listenablefuture/pom.properties
+SHA1-Digest: AwtwEfZjZ9T9znxaCujEpwO0f6Q=
+
+Name: META-INF/maven/com.google.guava/listenablefuture/pom.xml
+SHA1-Digest: PnEST8KLROKeqjGrvCZ/rvfufUA=
+
+Name: META-INF/maven/com.google.zxing/core/pom.properties
+SHA1-Digest: wB9RVtMZPeVWVgJ5wiCTniq+KDY=
+
+Name: META-INF/maven/com.google.zxing/core/pom.xml
+SHA1-Digest: vWFT8/XcMl1ZjhWAjSaguB9L0ac=
+
+Name: META-INF/maven/com.squareup.okio/okio/pom.properties
+SHA1-Digest: 8h/Eotimd0eTjgSlKDITiQvIkY0=
+
+Name: META-INF/maven/com.squareup.okio/okio/pom.xml
+SHA1-Digest: zaUjTXe0QUQgH0x3q0b3lCKITYE=
+
+Name: META-INF/packages__apps__MiuiSettingsLib__android_common__MiuiSe
+ ttingsLib.kotlin_module
+SHA1-Digest: p4G81+QQlyGor791hqXKdK2pzDk=
+
+Name: META-INF/proguard/androidx-annotations.pro
+SHA1-Digest: rgwxdjg6W1GRl4k2isrBSaQmz6w=
+
+Name: resources.arsc
+SHA1-Digest: 6rks8gV+dmBZefDKXxBAJ3vodCY=
+

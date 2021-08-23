@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest
+    android:compileSdkVersion="31"
+    android:compileSdkVersionCodename="12"
+    package="com.android.overlay"
+    platformBuildVersionCode="31"
+    platformBuildVersionName="12"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <overlay
+        android:priority="1"
+        android:targetPackage="android"
+        android:isStatic="true" />
+</manifest>

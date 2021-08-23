@@ -1,0 +1,54 @@
+{
+  "version": "2.4.0",
+  "apkFileName": "miuiplus.apk",
+  "isFrameworkApk": false,
+  "compressionType": false,
+  "sharedLibrary": false,
+  "sparseResources": true,
+  "sdkInfo": null,
+  "unknownFiles": {},
+  "doNotCompress": [
+    "META-INF\/androidx.preference_preference.version",
+    "META-INF\/androidx.vectordrawable_vectordrawable.version",
+    "META-INF\/androidx.loader_loader.version",
+    "META-INF\/androidx.lifecycle_lifecycle-livedata.version",
+    "META-INF\/androidx.lifecycle_lifecycle-runtime.version",
+    "META-INF\/androidx.localbroadcastmanager_localbroadcastmanager.version",
+    "META-INF\/androidx.appcompat_appcompat-resources.version",
+    "META-INF\/androidx.lifecycle_lifecycle-livedata-core.version",
+    "META-INF\/androidx.lifecycle_lifecycle-viewmodel-savedstate.version",
+    "META-INF\/androidx.appcompat_appcompat.version",
+    "META-INF\/androidx.viewpager_viewpager.version",
+    "META-INF\/androidx.cursoradapter_cursoradapter.version",
+    "META-INF\/androidx.biometric_biometric.version",
+    "META-INF\/androidx.lifecycle_lifecycle-viewmodel.version",
+    "META-INF\/androidx.recyclerview_recyclerview.version",
+    "META-INF\/androidx.core_core.version",
+    "META-INF\/androidx.drawerlayout_drawerlayout.version",
+    "META-INF\/androidx.security_security-identity-credential.version",
+    "META-INF\/androidx.arch.core_core-runtime.version",
+    "META-INF\/androidx.versionedparcelable_versionedparcelable.version",
+    "META-INF\/androidx.vectordrawable_vectordrawable-animated.version",
+    "META-INF\/androidx.savedstate_savedstate.version",
+    "META-INF\/androidx.interpolator_interpolator.version",
+    "META-INF\/androidx.cardview_cardview.version",
+    "META-INF\/androidx.fragment_fragment.version",
+    "META-INF\/androidx.security_security-crypto.version",
+    "META-INF\/androidx.activity_activity.version",
+    "META-INF\/androidx.customview_customview.version"
+  ],
+  "UsesFramework": {
+    "ids": [
+      1
+    ],
+    "tag": null
+  },
+  "PackageInfo": {
+    "forcedPackageId": "127",
+    "renameManifestPackage": null
+  },
+  "VersionInfo": {
+    "versionCode": "40",
+    "versionName": "1.8.11"
+  }
+}
